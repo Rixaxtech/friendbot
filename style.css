@@ -1,0 +1,17 @@
+body {
+    display: flex;
+}
+
+section {
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+
+}
+
+button {
+    cursor: pointer;
+}
+.mic {
+    width: 20%;
+}
