@@ -3,7 +3,7 @@ Some people talk to a duck while coding. You can speak to FriendBot instead if y
 
 **Link to project:** https://courageous-duckanoo-714419.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://photos.google.com/share/AF1QipPyH3fxfQ_V3I10CDTPicZH5Tn0f0_4dI1X3KsPmpCuJ0h6Qv-5Ghtq8lQhpKuLaA/photo/AF1QipN61Gg1eYfP8J4YnSi1p4eWYPVtujR2y9cwOZMk?key=WDBKRWhSZ2JyWTM0QnU2azJtX29iNi1Kb0phdEV3)
 
 ## How It's Made:
 
